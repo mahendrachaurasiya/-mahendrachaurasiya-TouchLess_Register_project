@@ -1,0 +1,2 @@
+# -mahendrachaurasiya-TouchLess_Register_project
+With COVID-19 still at large, established business practices are changing. Lots of businesses utilize biometric authentication technology to verify the identities of clients and customers. Biometric authentication is a security process that uses the unique biological characteristics of an individual to verify their identity. These businesses are now in search of contactless methods of authentication.​  It can be used for security, employee clock-in and clock-out procedures, verifying with in a seconds.
